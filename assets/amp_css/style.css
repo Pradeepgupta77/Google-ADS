@@ -214,7 +214,7 @@ main {
   font-size: 48px;
   font-weight: 300;
   line-height: 1.2;
-  color: var(--white);
+  /* color: var(--white); */
 }
 
 .hero_left h1 span {
@@ -223,7 +223,7 @@ main {
 
 .hero_left > p {
   margin-top: 20px;
-  color: var(--white);
+  /* color: var(--white); */
 }
 
 .hero_left ul {
@@ -246,7 +246,7 @@ main {
 .hero_left ul li p {
   line-height: 1.1;
   font-size: 14px;
-  color: var(--white);
+  /* color: var(--white); */
 }
 
 #hero .hero_left li > img {
@@ -639,12 +639,12 @@ main {
 }
 
 .seoDiff_con .heading_2 {
-  color: var(--white);
+  /* color: var(--white); */
   text-align: center;
 }
 
 .seoDiff_con .normalpara {
-  color: var(--white);
+  /* color: var(--white); */
   text-align: center;
   margin-top: 15px;
 }
@@ -901,10 +901,10 @@ main {
   padding: 50px;
 }
 
-.strategy_right .heading_2,
+/* .strategy_right .heading_2,
 .strategy_right .normalpara {
   color: var(--white);
-}
+} */
 
 #strategyCall .strategy_con .strategy_left {
   width: 50%;
